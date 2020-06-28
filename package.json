@@ -1,0 +1,15 @@
+{
+  "name": "nuxt2-dropzone",
+  "version": "1.0.0",
+  "description": "nuxt2 dropzone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nuxt2",
+    "dropzone"
+  ],
+  "author": "nghiach",
+  "license": "MIT"
+}
